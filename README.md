@@ -6,6 +6,9 @@
 🏙 _Bucaramanga - Colombia_
 📅 **2003**
 
+✍🏼 **Actualmemte me desempeño como desarrollador junior .Net.**
+
+
 ## 🎓 Otros Titulos 
 * Tecnologo en diseño y administracion de sistemas.
 
@@ -23,7 +26,6 @@
 4. CSS
 3. SQL
 4. C#
-5. 
 ### ⌨ **Comandos de terminal aprendidos en clase.**
 
 |N°| Comando |    Para que sirve   |
