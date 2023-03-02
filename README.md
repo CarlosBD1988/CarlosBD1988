@@ -28,8 +28,8 @@
 4. C#
 
 ## 📬 Contactame
-* Twitter : **[jsbc2017](https://twitter.com/jsbc2017)
-* Linkedin : **[📬](https://www.linkedin.com/in/carlos-andres-bohorquez-duran-38675a174/)
+* Twitter: [🌐](https://twitter.com/jsbc2017)
+* Linkedin: [📒](https://www.linkedin.com/in/carlos-andres-bohorquez-duran-38675a174/)
 
 
 
