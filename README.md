@@ -13,11 +13,11 @@
 * Tecnologo en diseño y administracion de sistemas.
 
 ## Habilidades
-- Soporte tecnico nivel usuario.
-- Gestion y administracion de infraestructura fisica.
-- Administración de sistemas de informacion en salud.
-- Diseño e implementación de soluciones con tecnologia RPA.
-- Desarrollo de sistemas con leguange de programacion C#.
+- Soporte técnico nivel usuario.
+- Gestión y administración de infraestructura física.
+- Administración de sistemas de información en salud.
+- Diseño e implementación de soluciones con tecnología RPA.
+- Desarrollo de sistemas con .Net C#.
 
 ## 📖 🤓 Skills 
 1. RPA
