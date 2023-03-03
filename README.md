@@ -1,4 +1,4 @@
-# 👽¿Quien soy yo? 👽
+# 👽¿Quién soy yo? 👽
 
 ## _¡Hola!_, Soy Carlos Andrés Bohórquez Durán.
 👨‍🎓 **Ingeniero de sistemas.**  
