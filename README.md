@@ -21,7 +21,7 @@
 
 ## 📖 🤓 Skills 
 1. RPA
-2. JavaScript
+2. JavaScript(in learning)
 3. HTML
 4. CSS
 3. SQL
